@@ -19,4 +19,4 @@ The training and testing data are located in the train-mails and test-mails dire
 
 The accuracy of the classifier on the test data is: **[Accuracy Score]**
 
-![Spam Email](<iframe src="https://giphy.com/embed/Ahw40HZzrd0yN9ndH5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ahw40HZzrd0yN9ndH5">via GIPHY</a></p>)
+![Spam Email](https://giphy.com/embed/Ahw40HZzrd0yN9ndH5)
