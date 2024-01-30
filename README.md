@@ -13,6 +13,16 @@ Lastly, We asked the model to predict the category of these emails and compare t
 
 The training and testing data are located in the *train-mails* and *test-mails* directories.
 
+### Libraries
+In this code, we used different libraries.
+Please import them as part before you run any other code
+- os
+- numpy (np)
+- collections (Counter)
+- sklearn.naive_bayes (GaussianNB)
+- sklearn.metrics (accuracy_score)
+
+
 ### Results
 
 The accuracy of the classifier on the test data is: **[Accuracy Score]**
