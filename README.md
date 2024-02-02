@@ -11,7 +11,7 @@ Lastly, We asked the model to predict the category of these emails and compare t
 
 ### Data
 
-The training and testing data are located in the *train-mails* and *test-mails* directories.
+The training and testing data are located in the *train-mails* and *test-mails* directories. Please ensure that the *train-mails* and *test-mails* folders are located in your environment in the same folder as your working directory for the code.
 
 ### Libraries
 In this code, we used different libraries.
